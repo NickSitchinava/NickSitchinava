@@ -24,8 +24,11 @@ I’m a Full-Stack Web Developer focused on building modern, high-performance we
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NickSitchinava&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="40%" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%" />
+</p>
 
 ---
 
