@@ -10,7 +10,14 @@ I’m a Full-Stack Web Developer focused on building modern, high-performance we
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=NickSitchinava&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com/?user=NickSitchinava&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NickSitchinava&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="42%" />
 </p>
 
 <p align="center">
